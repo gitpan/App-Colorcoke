@@ -1,0 +1,24 @@
+--- #YAML:1.0
+name:               App-Colorcoke
+version:            0.403
+abstract:           ~
+author:
+    - Magnus Woldrich <trapd00r@trapd00r.se>
+license:            perl
+distribution_type:  module
+configure_requires:
+    ExtUtils::MakeMaker:  0
+build_requires:
+    ExtUtils::MakeMaker:  0
+requires:
+    perl:                 5.01
+    Term::ExtendedColor::Xresources:  0.002
+    Test::More:           0
+no_index:
+    directory:
+        - t
+        - inc
+generated_by:       ExtUtils::MakeMaker version 6.56
+meta-spec:
+    url:      http://module-build.sourceforge.net/META-spec-v1.4.html
+    version:  1.4

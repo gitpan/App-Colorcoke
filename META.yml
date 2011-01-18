@@ -1,6 +1,6 @@
 --- #YAML:1.0
 name:               App-Colorcoke
-version:            0.404
+version:            0.407
 abstract:           Modify the extended terminal colorset
 author:
     - Magnus Woldrich <trapd00r@trapd00r.se>
